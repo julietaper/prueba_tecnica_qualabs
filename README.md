@@ -22,8 +22,8 @@
 ## Project structure
   
 - The file `index.js` is used to execute the project.
-- In the file `parteA.js`, you can find the functions to read and process the JSON files, as well as classify the users.
-- In the file `parteB.js`, you can find the functions to identify the users that appear in all modules.
+- In the file `partA.js`, you can find the functions to read and process the JSON files, as well as classify the users.
+- In the file `partB.js`, you can find the functions to identify the users that appear in all modules.
 - There is a folder named `json_files` where you can place the JSON files to test the project.
 
 
